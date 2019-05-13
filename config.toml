@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "odj_pic.jpg"
   author = "David Odongo"
   description = "David Odongo's blog that reflects his thoughts on data science. Main focus is on data in climate change, public health, and development sectors of Uganda"
 
