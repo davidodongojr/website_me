@@ -24,10 +24,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   Github        = "davidodongojr"
   Email         = "davidodongojr@gmail.com"
   Twitter       = "tekitizzy"
-  LinkedIn      = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+  #LinkedIn      = "username"
+  #Stackoverflow = "username"
+  #Medium        = "username"
+  #Telegram      = "username"
 
 ## Main Menu
 [[menu.main]]
