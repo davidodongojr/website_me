@@ -6,10 +6,22 @@
     <description>Recent content in Blogs on David Odongo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reproducible Research with R</title>
+      <link>/blog/reproducible-research-with-r/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/reproducible-research-with-r/</guid>
+      <description>Good day my friend. Today i would like about Reproducible Research.
+One thing i learnt early in life is that if you understand the definition of a subject, then you have overcome the biggest hurdle there is to ever understanding the concept therein (I hope that makes sense) .
+The best definition i could find that explains the concept is this:
+ Reproducible Research is the practice of distributing, along with a research publication, all data, software source code, and tools required to reproduce the results discussed in the publication.</description>
+    </item>
     
     <item>
       <title>First blog post</title>
