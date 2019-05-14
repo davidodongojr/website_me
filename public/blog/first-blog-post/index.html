@@ -86,7 +86,7 @@ if (!doNotTrack) {
 
 <ul>
 <li>data collection using <a href="https://rvest.tidyverse.org/">rvest</a> and a couple of API libraries</li>
-<li>data cleaning using <a href="https://dplyr.tidyverse.org/">dplyr</a>, <a href="http://sfirke.github.io/janitor/">janitor</a></li>
+<li>data cleaning using <a href="https://dplyr.tidyverse.org/">dplyr</a>, <a href="http://sfirke.github.io/janitor/">janitor</a>, <a href="https://stringr.tidyverse.org/index.html">stringr</a></li>
 <li>exploratory data analysis using <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html">DataExplorer</a>, <a href="http://visdat.njtierney.com/">Visdat</a></li>
 <li>statistical inference using <a href="https://moderndive.com/index.html">moderndive</a> and <a href="https://infer.netlify.com/">infer</a></li>
 <li>data visualisation using <a href="https://ggplot2.tidyverse.org/">ggplot2</a></li>
@@ -96,7 +96,7 @@ if (!doNotTrack) {
 
 <p>Btw, this website is built using <a href="https://bookdown.org/yihui/blogdown/">blogdown</a>. Just goes to show you how powerful R is.</p>
 
-<p>To sum this all up (before i start talking too much), there is an online book called <a href="https://r4ds.had.co.nz/">R4DS</a>. It&rsquo;s an accronym that stands for <strong>&ldquo;R for Data Science.&rdquo;</strong> and is written by <a href="http://hadley.nz/">Hadley Wickham</a>It will teach you the 20% you need to do 80% of your data related work with R.</p>
+<p>To sum this all up (before i start talking too much), there is an online book called <a href="https://r4ds.had.co.nz/">R4DS</a>. It&rsquo;s an accronym that stands for <strong>&ldquo;R for Data Science.&rdquo;</strong> and is written by <a href="http://hadley.nz/">Hadley Wickham</a>. It will teach you the 20% you need to do 80% of your data related work with R.</p>
 
 <p>Till next time, i remain truly yours&hellip;hehe.</p>
 
@@ -110,23 +110,24 @@ if (!doNotTrack) {
           <hr>
         <div class="disqus">
   <div id="disqus_thread"></div>
-  <script type="text/javascript">
+    <script>
+    
+    
 
-    (function() {
-      
-      
-      if (window.location.hostname == "localhost")
-        return;
+    
 
-      var disqus_shortname = 'disqus_HKWDEYnZSz';
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://davidodongojr-rbind-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
     })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
   <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
+
 
 
 
