@@ -5,3 +5,5 @@
 https://davido.netlify.com/* https://davidodongojr.rbind.io/:splat 301!
 
 http://davido.netlify.com/* https://davidodongojr.rbind.io/:splat 301!
+
+http://davidodongojr.rbind.io/* https://davidodongojr.rbind.io/:splat 301!
